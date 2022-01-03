@@ -21,7 +21,7 @@ pip install numpy
 - Run the Code
 
 # Advanced
-### Add of Remove comment from following code to get hand sign prediction on screen
+### Add of Remove comment from following code to get Hand Sign Prediction on screen
 ```python
 from tensorflow.keras.models import load_model
 model = load_model('mp_hand_gesture')
