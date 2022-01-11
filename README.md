@@ -34,3 +34,4 @@ model = load_model('mp_hand_gesture')
                      cv2.putText(image, className, (10, 50), cv2.FONT_HERSHEY_SIMPLEX,
                                  1, (0,0,255), 2, cv2.LINE_AA)
 ```
+<img src="https://i.imgur.com/hcCnLIn.png">
