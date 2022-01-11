@@ -3,6 +3,11 @@
 # Game-Automation-Demo
 ![me](https://github.com/shashankanand13monu/Game-Automation/blob/master/gta_game_demo.gif)
 <!-- <img src = "https://github.com/shashankanand13monu/Game-Automation/blob/master/gta_game_demo.gif"> -->
+# Game-Automation-WebApp
+This is a Demo of Game Automation
+## 🔗 Demo Links
+[![Streamlit Cloud](https://img.shields.io/badge/Streamlit-Demo-red?style=for-the-badge&)](https://share.streamlit.io/shashankanand13monu/game-automation-webapp/st2.py)
+[![Streamlit Cloud](https://img.shields.io/badge/Hugging%20Face-Demo-yellow?style=for-the-badge&)](https://huggingface.co/spaces/shashankanand13/game-automation-webapp)
 
 # How To Run
 **Creating Running Environment**
